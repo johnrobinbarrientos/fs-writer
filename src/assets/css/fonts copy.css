@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Gotham Bold';
+    src: url("../fonts/gotham/Gotham-Bold.woff");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Gotham Light';
+    src: url("../fonts/gotham/Gotham-Light.woff");
+    font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham Medium';
+  src: url("../fonts/gotham/Gotham-Medium.woff");
+  font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Crimson Roman';
+    src: url("../fonts/crimson/Crimson-Roman.woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Roman Italic';
+    src: url("../fonts/crimson/Crimson-Italic.woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Roman Bold';
+    src: url("../fonts/crimson/Crimson-Bold.woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Roman Bold Italic';
+    src: url("../fonts/crimson/Crimson-BoldItalic.woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Roman Semibold';
+    src: url("../fonts/crimson/Crimson-Semibold.woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Roman Semibold Italic';
+    src: url("../fonts/crimson/Crimson-SemiboldItalic.woff");
+    font-display: swap;
+}
+

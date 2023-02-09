@@ -1,0 +1,6 @@
+owner: rancorfloydz
+repo: easywrite
+provider: github
+private: true
+token: dfd1c61fcb090ecba24909875e177c5326ad449d
+updaterCacheDirName: easywrite
